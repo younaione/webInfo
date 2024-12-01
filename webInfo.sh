@@ -55,6 +55,7 @@ echo "Check your internet connection or domain name."
 exit 1
 fi
 
+# delete the file  
 #if [ -f $dir/index.html ]; then
 #rm index.html
 #fi
