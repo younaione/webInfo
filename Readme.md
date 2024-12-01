@@ -6,6 +6,30 @@
 
 
 ## Installation
-<p> git clone https://github.com/younaione/webInfo.git</p>
-<p> chmod +x webinfo.sh </p>
-<p> ./webinfo -f file-name </p>
+<p>git clone https://github.com/younaione/webInfo.git</p>
+<p>chmod +x webinfo.sh </p>
+<p>./webinfo -f file-name </p>
+
+
+
+## Installation
+<p>-f             get all data from file</p>
+<p>-d             get all data from domain name</p>
+<p>-h             print help message</p>
+                                         
+
+## Examples
+<p>./webInfo  -f file-name </p>
+<p>./webInfo  -d domain-name.com</p>p 
+
+
+## Version
+<p>Current version is 0.0.1.</p>
+
+
+
+<p>For any questions or proposals @Younaione</p>
+
+
+
+
