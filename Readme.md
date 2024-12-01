@@ -5,6 +5,5 @@
  I'm still working on it so that it has more advantages
 
 
- [^1]: git clone https://github.com/younaione/webInfo.git
- [^2]: chmod +x webinfo.sh
- ./webinfo -f file-name
+ git clone https://github.com/younaione/webInfo.git\
+ chmod +x webinfo.sh\
