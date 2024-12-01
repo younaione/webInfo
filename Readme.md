@@ -11,11 +11,6 @@
 <p>./webinfo -f file-name </p>
 
 
-
-## Installation
-<p>-f             get all data from file</p>
-<p>-d             get all data from domain name</p>
-<p>-h             print help message</p>
                                          
 
 ## Examples
@@ -23,13 +18,9 @@
 <p>./webInfo  -d domain-name.com</p>p 
 
 
-## Version
-<p>Current version is 0.0.1.</p>
 
-
-
-<p>For any questions or proposals @Younaione</p>
-
+<p>For any questions or proposals</p>
+<p>Telegram: @Younaione</p>
 
 
 
