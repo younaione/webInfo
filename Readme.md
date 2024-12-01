@@ -15,7 +15,7 @@
 
 ## Examples
 <p>./webInfo  -f file-name </p>
-<p>./webInfo  -d domain-name.com</p>p 
+<p>./webInfo  -d domain-name.com</p>
 
 
 
