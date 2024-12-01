@@ -5,5 +5,5 @@
  I'm still working on it so that it has more advantages
 
 
-<p> git clone https://github.com/younaione/webInfo.git<\p>
-<p> test <\p>
+<p> git clone https://github.com/younaione/webInfo.git</p>
+<p> test </p>
