@@ -6,5 +6,5 @@
 
 
  [^1]: git clone https://github.com/younaione/webInfo.git
- [^1]: chmod +x webinfo.sh
+ [^2]: chmod +x webinfo.sh
  ./webinfo -f file-name
