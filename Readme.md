@@ -6,23 +6,13 @@
 
 ## Installation
 <p>git clone https://github.com/younaione/webInfo.git</p>
-<p>chmod +x webinfo.sh </p>
+<p>chmod +x webInfo.sh </p>
 <p>./webinfo -f file-name </p>
 
 
                                          
 
 
-
-
-
-
-
-<p></p>
-<p></p>
-<p></p>
-<p>For any questions or proposals</p>
-<p>Telegram: @Younaione</p>
 
 
 
